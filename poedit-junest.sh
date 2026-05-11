@@ -7,7 +7,7 @@ DEPENDENCES="aspell enchant gettext gspell gvfs hspell hunspell libvoikko nuspel
 #COMPILERS="base-devel"
 
 # Set keywords to searchan include in names of directories and files in /usr/bin (BINSAVED), /usr/share (SHARESAVED) and /usr/lib (LIBSAVED)
-BINSAVED="spell msgcat"
+BINSAVED="spell msgcat msgfmt"
 SHARESAVED="xml mime X11 wayland icons"
 LIBSAVED="gdk-pixbuf spell"
 
